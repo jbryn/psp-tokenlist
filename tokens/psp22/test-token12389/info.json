@@ -1,0 +1,23 @@
+{
+  "name": "Test Token12389",
+  "symbol": "TST",
+  "type": "PSP22",
+  "decimals": 21,
+  "description": "This is my token",
+  "sourceCode": "https://github.com/mytoken",
+  "website": "https://mytoken.com",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/mytoken"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/mytoken"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/mytoken"
+    }
+  ]
+}
