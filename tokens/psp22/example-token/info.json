@@ -1,0 +1,23 @@
+{
+  "name": "Example Token",
+  "symbol": "EXT",
+  "type": "PSP22",
+  "decimals": 18,
+  "description": "This is an example token for demonstration purposes.",
+  "sourceCode": "https://github.com/example/example-token",
+  "website": "https://www.exampletoken.com",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://discord.gg/exampletoken"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/exampletoken"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://t.me/exampletoken"
+    }
+  ]
+}
