@@ -1,0 +1,9 @@
+{
+  "name": "new token",
+  "symbol": "NWT",
+  "type": "PSP22",
+  "decimals": 10,
+  "description": "fesges",
+  "sourceCode": "https://example.com",
+  "links": []
+}
