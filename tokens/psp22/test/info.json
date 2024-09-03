@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "symbol": "test",
+  "type": "PSP22",
+  "decimals": 1,
+  "description": "test",
+  "sourceCode": "https://example.com",
+  "links": []
+}
