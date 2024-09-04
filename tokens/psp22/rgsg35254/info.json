@@ -1,0 +1,23 @@
+{
+  "name": "rgsg35254",
+  "symbol": "grsgs",
+  "type": "PSP22",
+  "decimals": 0,
+  "description": "test",
+  "sourceCode": "https://example.com",
+  "website": "https://example.com",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://example.com"
+    },
+    {
+      "name": "X",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://example.com"
+    }
+  ]
+}
