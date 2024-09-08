@@ -1,0 +1,23 @@
+{
+  "name": "One and Only Properly Token 1",
+  "symbol": "RLY",
+  "type": "PSP22",
+  "decimals": 12,
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+  "sourceCode": "https://github.com/jbryn/psp-tokenlist",
+  "website": "https://example.com",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://example.com"
+    },
+    {
+      "name": "X",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://example.com"
+    }
+  ]
+}
