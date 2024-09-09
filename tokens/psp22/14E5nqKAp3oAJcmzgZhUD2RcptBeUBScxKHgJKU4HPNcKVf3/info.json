@@ -1,0 +1,24 @@
+{
+  "name": "another token",
+  "symbol": "ANO",
+  "contractAddress": "14E5nqKAp3oAJcmzgZhUD2RcptBeUBScxKHgJKU4HPNcKVf3",
+  "type": "PSP22",
+  "decimals": 12,
+  "description": "oinef0ef0ehf0ef0ibs `hf0sh0if s0f s0erhfg0ser ",
+  "sourceCode": "https://github.com/syncradao/app.syncra.xyz/",
+  "website": null,
+  "links": [
+    {
+      "name": "X/Twitter",
+      "url": ""
+    },
+    {
+      "name": "Telegram",
+      "url": ""
+    },
+    {
+      "name": "Discord",
+      "url": ""
+    }
+  ]
+}
