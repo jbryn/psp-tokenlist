@@ -1,0 +1,23 @@
+{
+  "name": "PEPE123",
+  "symbol": "PPP",
+  "type": "PSP22",
+  "decimals": 12,
+  "description": "e089hf98eshf98eshf98ewh9ewhf9wehfg9ewh9ewh9ewgh9iewgngewoew",
+  "sourceCode": "https://github.com/syncradao/app.syncra.xyz/",
+  "website": "https://example.com",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://discord.com"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://telegram.com"
+    }
+  ]
+}
