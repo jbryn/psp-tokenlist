@@ -1,0 +1,20 @@
+{
+  "name": "TEST",
+  "symbol": "tTT",
+  "contractAddress": "5GrpknVvGGrGH3EFuURXeMrWHvbpj3VfER1oX5jFtuGbfzCE",
+  "type": "PSP22",
+  "decimals": 12,
+  "description": "90h08h09hewrrewrwerewrewrwrewrwe",
+  "sourceCode": "https://github.com/syncradao/app.syncra.xyz/",
+  "website": "https://example.com",
+  "links": [
+    {
+      "name": "Discord",
+      "url": "https://example.com"
+    },
+    {
+      "name": "X",
+      "url": "https://example.com"
+    }
+  ]
+}
